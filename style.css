@@ -37,10 +37,10 @@ nav ul li a{
 img{
     width:  20%;
 }
-img:hover{
+/* img:hover{
     width: 30%;
     transition: transform 0.5s;
-}
+} */
 nav ul li :hover{
     border-bottom: solid gold;
     font-size: 5.5rem;
@@ -71,19 +71,19 @@ span{
     font-size: 5rem;
     font-family: 'Tulpen One', cursive;
 }
-span:hover{
+/* span:hover{
     box-shadow:0 0 1rem gold, 0 0 2rem gold, 0 0 5rem gold, 0 0 10rem gold,0 0 20rem gold ;
     background-color: gold;
     color: black;
     font-size: 7rem; 
     transition: transform 0.5s;
      
-}
+} */
 .c2 p{
     font-size: 2rem;
     color: white;
 }
-.c2 p:hover{
+/* .c2 p:hover{
      text-shadow:  0 0 1rem gold, 0 0 2rem gold, 0 0 5rem gold, 0 0 10rem gold,0 0 20rem gold;
      transition: transform 0.5s;
 }
@@ -92,7 +92,7 @@ span:hover{
     color: black;
     box-shadow: 0 0 1rem gold, 0 0 2rem gold, 0 0 5rem gold, 0 0 10rem gold,0 0 20rem gold;
     transition: transform 0.5s;
-}
+} */
 .box1{
     float: left;
     width: 60%;
@@ -108,10 +108,10 @@ span:hover{
     border: 1rem solid gold;
 
 }
-.box2:hover{
+/* .box2:hover{
     box-shadow:  0 0 1rem gold, 0 0 2rem gold, 0 0 5rem gold, 0 0 10rem gold,0 0 20rem gold;
     transition: transform 0.5s;
-}
+} */
  
 .d{
     clear: both;
@@ -151,22 +151,22 @@ p{
 .left>.box>h4{
     font-size: 3.0rem;
 }
-.left>.box>h4:hover{
+/* .left>.box>h4:hover{
     color: gold;
     text-shadow: 0 0 1rem gold, 0 0 2rem gold, 0 0 5rem gold, 0 0 10rem gold,0 0 20rem gold ;
     font-size: 4rem;
     transition: transform 0.5s;
-}
+} */
 .left>.box>h1{
     font-size: 5.0rem;
     /* padding: 20px; */
 }
-.left>.box>h1:hover{
+/* .left>.box>h1:hover{
    text-shadow:    0 0 5rem gold, 0 0 10rem gold,0 0 20rem gold;
    color: gold;
    font-size:7rem;
    transition: transform 0.5s;
-}
+} */
 .circle{
     /* display: flex; */
     /* align-items: center; */
@@ -209,12 +209,12 @@ p{
     /* padding: 20px; */
     /* background-color: gray; */
 }
-.text1 h1:hover{
+/* .text1 h1:hover{
     background-color: gold;
     color: black;
     box-shadow: 0 0 1rem gold, 0 0 2rem gold, 0 0 5rem gold, 0 0 10rem gold,0 0 20rem gold;
     font-size: 9rem;
-    transition: transform 0.5s;
+    transition: transform 0.5s; */
 }
 .text1 h4{
     font-size: 1.8rem;
@@ -225,12 +225,12 @@ p{
     /* border: 2px solid black; */
     /* padding: 30px; */
 }
-.text1 h4:hover{
+/* .text1 h4:hover{
     box-shadow:0 0 1rem gold, 0 0 2rem gold, 0 0 5rem gold, 0 0 10rem gold,0 0 20rem gold ;
     background-color: gold;
     color: black;
     font-size: 2.2rem;
-    transition: transform 0.5s;
+    transition: transform 0.5s; */
 }
 .text1 h5{
    color: red;
@@ -240,11 +240,11 @@ p{
    font-weight: 800;
    font-size: 2rem;
 }
-.text1 h5:hover{
+/* .text1 h5:hover{
     font-size: 3rem;
     transition: transform 0.5s;
      
-}
+} */
 /* --------------------------page 2----------------- */
 #achivment{
     position: relative;
@@ -283,12 +283,12 @@ p{
 .z2,.z1,.z3,.z4,.z5,.z6,.z7,.z8:hover{
     background-color: black;
 }
-p:hover{
+/* p:hover{
     color: #fcda69;
     text-shadow:  0 0 1rem gold, 0 0 2rem   ;
     font-size: 3rem;
     transition: transform 0.5s;
-}
+} */
 p{
     font-size: 2rem;
     color:  white;
@@ -299,14 +299,14 @@ h2{
     font-size: 3rem;
     text-align: center;
 }
-h2:hover{
+/* h2:hover{
     
     box-shadow:0 0 1rem  cyan, 0 0 2rem  cyan, 0 0 5rem  cyan, 0 0 10rem  cyan,0 0 20rem  cyan ;
     background-color:  cyan;
     color: black;
-    font-size: 5rem;
-    transition: transform 0.5s;
-}
+   font-size: 5rem; 
+    transition: transform 0.5s; 
+} */
 .heading h1{
     text-align: center;
     background-color: white;
@@ -320,7 +320,7 @@ h2:hover{
     box-shadow:0 0 1rem gold, 0 0 2rem gold, 0 0 5rem gold, 0 0 10rem gold,0 0 20rem gold ;
     background-color: gold;
     color: black;
-    font-size: 7rem;
+/*     font-size: 7rem; */
     transition: transform 0.5s;
 }
 .bot a{
@@ -354,7 +354,7 @@ h2:hover{
     box-shadow:0 0 1rem  cyan, 0 0 2rem  cyan, 0 0 5rem  cyan, 0 0 10rem  cyan,0 0 20rem  cyan ;
     background-color:  cyan;
     color: black;
-    font-size: 2.5rem;
+/*     font-size: 2.5rem; */
 }
 /* --------------------------media----------- */
 @media(max-width:998px){
